@@ -1,0 +1,24 @@
+{
+  "name": "web-services",
+  "version": "1.0.0",
+  "description": "Modelowanie i projektowanie usług Web Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeziorski/Web-Services.git"
+  },
+  "author": "23660",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jeziorski/Web-Services/issues"
+  },
+  "homepage": "https://github.com/jeziorski/Web-Services#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "helmet": "^4.1.1"
+  }
+}
